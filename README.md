@@ -6,20 +6,20 @@ Includes three projects :
 ### Technologies used in these projects are :
 These projects showcase my proficiency with the following technologies:
 
-*Programming Language:
+* Programming Language:
 Python
 
-*Data Manipulation & Analysis:
+* Data Manipulation & Analysis:
 Pandas
 NumPy
 
-*Machine Learning:
+* Machine Learning:
 Scikit-learn
 
-*Data Visualization:
+* Data Visualization:
 Matplotlib
 
-*Development Environment:
+* Development Environment:
 Jupyter Notebook
 
 ## 1. Credit Card Fraud Detection💳
