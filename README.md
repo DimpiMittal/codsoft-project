@@ -6,11 +6,21 @@ Includes three projects :
 ### Technologies used in these projects are :
 These projects showcase my proficiency with the following technologies:
 
-Programming Language: Python
-Data Manipulation & Analysis: Pandas, NumPy
-Machine Learning: Scikit-learn
-Data Visualization: Matplotlib
-Development Environment: Jupyter Notebook
+*Programming Language:
+Python
+
+*Data Manipulation & Analysis:
+Pandas
+NumPy
+
+*Machine Learning:
+Scikit-learn
+
+*Data Visualization:
+Matplotlib
+
+*Development Environment:
+Jupyter Notebook
 
 ## 1. Credit Card Fraud Detection💳
 Description: This project focuses on detecting fraudulent credit card transactions using machine learning. The dataset includes a wide range of features that contribute to predicting whether a given transaction is legitimate or fraudulent.
